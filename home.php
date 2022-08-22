@@ -45,22 +45,22 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-1.png" alt="">
+            <img src="images/slider/games.png" alt="">
          </div>
          <div class="content">
-            <span>upto 50% off</span>
-            <h3>latest smartphones</h3>
+            <span>PS5 GAMES</span>
+            <h3>Now available at GameZone</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-2.png" alt="">
+            <img src="images/slider/xbox.jpg" alt="">
          </div>
          <div class="content">
-            <span>upto 50% off</span>
-            <h3>latest watches</h3>
+            <span>XBOX GAMES</span>
+            <h3>Now available at GameZone</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
