@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
 
 :root{
    --main-color:#2980b9;
@@ -13,7 +13,7 @@
 }
 
 *{
-   font-family: 'Nunito', sans-serif;
+   font-family: 'Poppins', sans-serif;
    margin:0; padding:0;
    box-sizing: border-box;
    outline: none; border:none;
@@ -286,42 +286,6 @@ section{
 
 .swiper-pagination-bullet-active{
    background-color: var(--main-color);
-}
-
-.category .slide{
-   margin-bottom: 5rem;
-   box-shadow: var(--box-shadow);
-   border:var(--border);
-   text-align: center;
-   padding:2rem;
-   background: var(--white);
-   border-radius: .5rem;
-}
-
-.category .slide:hover{
-   background-color: var(--black);
-}
-
-.category .slide:hover img{
-   filter:invert();
-}
-
-.category .slide:hover h3{
-   color:var(--white);
-}
-
-.category .slide img{
-   height: 7rem;
-   width: 100%;
-   object-fit: contain;
-   margin-bottom: 1rem;
-   user-select: none;
-}
-
-.category .slide h3{
-   font-size: 2rem;
-   color:var(--black);
-   user-select: none;
 }
 
 .home-products .slide{

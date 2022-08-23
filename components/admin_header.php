@@ -12,11 +12,8 @@
 ?>
 
 <header class="header">
-
    <section class="flex">
-
       <a href="../admin/dashboard.php" class="logo">Admin<span>Panel</span></a>
-
       <nav class="navbar">
          <a href="../admin/dashboard.php">home</a>
          <a href="../admin/products.php">products</a>
