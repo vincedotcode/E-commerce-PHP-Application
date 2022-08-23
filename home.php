@@ -45,7 +45,7 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/slider/games.png" alt="">
+            <img src="images/slider/games.png" alt="games">
          </div>
          <div class="content">
             <span>PS5 GAMES</span>
@@ -56,7 +56,7 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/slider/xbox.jpg" alt="">
+            <img src="images/slider/xbox.jpg" alt="xbox">
          </div>
          <div class="content">
             <span>XBOX GAMES</span>
@@ -67,11 +67,11 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-3.png" alt="">
+            <img src="images/slider/steam.png" alt="steam">
          </div>
          <div class="content">
-            <span>upto 50% off</span>
-            <h3>latest headsets</h3>
+            <span>Steam Gift Cards</span>
+            <h3>Now available at GameZone</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
